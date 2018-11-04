@@ -1,0 +1,19 @@
+{
+  "name": "weibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cookies": "^0.7.2",
+    "express": "^4.16.4",
+    "express-static": "^1.2.6",
+    "mongoose": "^5.3.8",
+    "swig": "^1.4.2"
+  }
+}
